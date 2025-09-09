@@ -92,7 +92,7 @@ This shows the control key screen once all cuts are entered.
 ### Results Screen
 Finally, pressing the green **Finish** button shows the results screen. This explains how to properly pin up the A2 cylinder so that the **master**, **change**, and **control keys** all work correctly.  
 <p align="center">
-  <img src="assets/wizard-results-screen.png" alt="Results Screen" width="400">
+  <img src="assets/wizard-results.png" alt="Results Screen" width="400">
 </p>
 
 ### Without Wizard – Input
