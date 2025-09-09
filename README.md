@@ -96,7 +96,7 @@ Finally, pressing the green **Finish** button shows the results screen. This exp
 </p>
 
 ### Without Wizard – Input
-If the user chooses **not** to use the wizard, this screen appears. Here, all inputs are filled in except the last control number.  
+If the user chooses **not** to use the wizard, this screen appears. Here, the user fills in the Master Key cuts, Change Key Cuts, and the Control Key Cuts.  Onec all fields are filled in, the screen automatically shows the results screen.
 <p align="center">
   <img src="assets/without-wizard-input.png" alt="Without Wizard Input" width="400">
 </p>
