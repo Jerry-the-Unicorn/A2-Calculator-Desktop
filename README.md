@@ -36,9 +36,6 @@ Available for **Windows, Mac, and Linux**.
 
 ## Screenshots
 
-### Start Screen
-![Start Screen](screenshots/start.png)
-
 ## 📸 Screenshots
 
 ### Opening Screen
