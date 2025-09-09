@@ -63,7 +63,9 @@ This shows the wizard screen with the **master key filled in**.
 </p>
 
 ### Change Key Input & Error
-On the change key screen, notice the **warning message** at the top. If an invalid cut is entered (same as the master key cut), an error screen is displayed.  
+On the change key screen, notice the **warning message** at the top.  
+A change key cut cannot be only **1 cut larger or 1 cut smaller** than the master key cut.  
+If that happens, an error screen is displayed.    
 <p align="center">
   <img src="assets/1-change-key-input.png" alt="Change Key Input" width="300">
   <img src="assets/2-change-key-error.png" alt="Change Key Error" width="300">
@@ -84,13 +86,13 @@ The next screen allows the user to enter the **control key**.
 ### Control Key Filled
 This shows the control key screen once all cuts are entered.  
 <p align="center">
-  <img src="assets/control-key-with-input.png" alt="Control Key Filled" width="400">
+  <img src="assets/control-key-with-inpit.png" alt="Control Key Filled" width="400">
 </p>
 
 ### Results Screen
 Finally, pressing the green **Finish** button shows the results screen. This explains how to properly pin up the A2 cylinder so that the **master**, **change**, and **control keys** all work correctly.  
 <p align="center">
-  <img src="assets/results-screen.png" alt="Results Screen" width="400">
+  <img src="assets/wizard-results-screen.png" alt="Results Screen" width="400">
 </p>
 
 ### Without Wizard – Input
