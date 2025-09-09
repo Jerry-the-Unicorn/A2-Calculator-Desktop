@@ -39,16 +39,75 @@ Available for **Windows, Mac, and Linux**.
 ### Start Screen
 ![Start Screen](screenshots/start.png)
 
-### 6 Pin Input
-![6 Pin Input](screenshots/6pin_input.png)
+## 📸 Screenshots
+
+### Opening Screen
+This is the opening screen where the user chooses **6 pin**, **7 pin**, or sees the "coming soon" option.  
+<p align="center">
+  <img src="assets/opening-screen.png" alt="Opening Screen" width="400">
+</p>
+
+### Wizard Screen
+After choosing the 6 pin calculator, this screen lets the user decide whether to use the wizard.  
+<p align="center">
+  <img src="assets/wizard-screen.png" alt="Wizard Screen" width="400">
+</p>
+
+### Wizard – Master Key Input
+This is the wizard screen waiting for the **master key** to be filled in.  
+<p align="center">
+  <img src="assets/wizard-screen-master-key.png" alt="Wizard Master Key Input" width="400">
+</p>
+
+### Wizard – Master Key Filled
+This shows the wizard screen with the **master key filled in**.  
+<p align="center">
+  <img src="assets/filled-in-master-key.png" alt="Wizard Master Key Filled" width="400">
+</p>
+
+### Change Key Input & Error
+On the change key screen, notice the **warning message** at the top. If an invalid cut is entered (same as the master key cut), an error screen is displayed.  
+<p align="center">
+  <img src="assets/1-change-key-input.png" alt="Change Key Input" width="300">
+  <img src="assets/2-change-key-error.png" alt="Change Key Error" width="300">
+</p>
+
+### Change Key Filled
+After correcting the error and filling in all cuts, the change key screen is complete.  
+<p align="center">
+  <img src="assets/3-filled-in-change-key.png" alt="Filled-in Change Key" width="400">
+</p>
+
+### Control Key Input
+The next screen allows the user to enter the **control key**.  
+<p align="center">
+  <img src="assets/control-key-input.png" alt="Control Key Input" width="400">
+</p>
+
+### Control Key Filled
+This shows the control key screen once all cuts are entered.  
+<p align="center">
+  <img src="assets/control-key-with-input.png" alt="Control Key Filled" width="400">
+</p>
 
 ### Results Screen
-![Results](screenshots/results.png)
+Finally, pressing the green **Finish** button shows the results screen. This explains how to properly pin up the A2 cylinder so that the **master**, **change**, and **control keys** all work correctly.  
+<p align="center">
+  <img src="assets/results-screen.png" alt="Results Screen" width="400">
+</p>
 
-### 7 Pin Calculator
-![7 Pin Calculator](screenshots/7pin_input.png)
+### Without Wizard – Input
+If the user chooses **not** to use the wizard, this screen appears. Here, all inputs are filled in except the last control number.  
+<p align="center">
+  <img src="assets/without-wizard-input.png" alt="Without Wizard Input" width="400">
+</p>
 
-*(Add the rest of your 12 screenshots here with simple captions like “Control Key Results,” “Error Handling,” etc.)*
+### Without Wizard – Results
+Once the final control number is entered, the app automatically advances to this results screen (without wizard).  
+<p align="center">
+  <img src="assets/without-wizard-results.png" alt="Without Wizard Results" width="400">
+</p>
+
 
 ---
 
