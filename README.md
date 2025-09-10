@@ -1,3 +1,7 @@
+## 🚀 Download
+You can download the latest version of **A2 Calculator Desktop** here:  
+[Download Installer](https://github.com/Jerry-the-Unicorn/A2-Calculator-Desktop/releases/latest)
+
 # A2-Calculator-Desktop
 
 **A2 Calculator Desktop** — an easy-to-use locksmithing tool for pinning A2 systems.  
